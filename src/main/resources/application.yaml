@@ -44,4 +44,4 @@ mybatis-plus:
   type-aliases-package: com.xydp.entity # 别名扫描包
 logging:
   level:
-    com.xydp: debug
+    com.ddpw: debug

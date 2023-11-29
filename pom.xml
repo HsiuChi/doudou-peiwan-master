@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.xydp</groupId>
-    <artifactId>xy-dianping</artifactId>
+    <artifactId>doudou-peiwan</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>xy-dianping</name>
     <description>Demo project for Spring Boot</description>

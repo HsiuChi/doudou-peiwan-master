@@ -1,7 +1,7 @@
 package com.ddpw.exception;
 
 /**
- * @author Wuxy
+ * @author zxq
  * @version 1.0
  * @ClassName BusinessException
  * @since 2023/1/14 15:28

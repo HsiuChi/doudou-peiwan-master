@@ -8,7 +8,7 @@
 #### 前台首页展示
 ![image](https://github.com/HsiuChi/doudou-peiwan-master/blob/master/msg/20240521152513.jpg)
 
-#### 前台消费页面展示
+#### 大神详情页面展示
 ![image](https://github.com/HsiuChi/doudou-peiwan-master/blob/master/msg/20240821155824.png)
 
 ### 架构图

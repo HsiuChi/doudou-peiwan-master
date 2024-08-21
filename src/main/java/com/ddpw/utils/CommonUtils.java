@@ -5,7 +5,7 @@ import java.util.Random;
 /**
  * 通用工具类
  *
- * @author Wuxy
+ * @author zxq
  * @version 1.0
  * @ClassName CommonUtils
  * @since 2023/6/3 17:27

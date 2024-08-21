@@ -3,10 +3,10 @@ package com.ddpw.utils;
 /**
  * MQ 常量类
  *
- * @author Wuxy
+ * @author zxq
  * @version 1.0
  * @ClassName MQConstants
- * @since 2023/1/13 23:42
+ * @since 2023/6/13 23:42
  */
 public class MQConstants {
 

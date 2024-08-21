@@ -5,10 +5,10 @@ import java.lang.annotation.*;
 /**
  * 自定义防重提交注解
  *
- * @author Wuxy
+ * @author zxq
  * @version 1.0
  * @ClassName RepeatSubmit
- * @since 2023/6/3 17:37
+ * @since 2023/11/3 17:37
  */
 @Documented
 @Retention(RetentionPolicy.RUNTIME)

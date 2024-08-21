@@ -34,8 +34,8 @@ import java.util.concurrent.Executors;
  * 优惠券订单服务实现类
  * </p>
  *
- * @author Wuxy
- * @since 2023/1/12
+ * @author zxq
+ * @since 2023/11/12
  */
 @Slf4j
 @Service

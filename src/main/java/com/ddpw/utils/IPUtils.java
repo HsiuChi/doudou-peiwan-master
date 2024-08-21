@@ -7,10 +7,10 @@ import java.net.UnknownHostException;
 /**
  * IP 工具类
  *
- * @author Wuxy
+ * @author zxq
  * @version 1.0
  * @ClassName IPUtils
- * @since 2023/1/13 17:17
+ * @since 2023/6/13 17:17
  **/
 public class IPUtils {
 

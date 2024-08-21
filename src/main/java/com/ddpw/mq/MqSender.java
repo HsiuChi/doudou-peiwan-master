@@ -10,10 +10,10 @@ import org.springframework.stereotype.Component;
 /**
  * RabbitMQ 消息发送器
  *
- * @author Wuxy
+ * @author zxq
  * @version 1.0
  * @ClassName MqSender
- * @since 2023/1/14 10:21
+ * @since 2023/11/14 10:21
  */
 @Slf4j
 @Component

@@ -25,10 +25,10 @@ import org.springframework.context.annotation.Configuration;
  *     本质上都一样，主要角色都有 Provider、Consumer、Queue、Exchange、RoutingKey。
  * </p>
  *
- * @author Wuxy
+ * @author zxq
  * @version 1.0
  * @ClassName MQConfig
- * @since 2023/1/13 23:42
+ * @since 2023/4/13 23:42
  */
 @Configuration
 public class MQConfig {

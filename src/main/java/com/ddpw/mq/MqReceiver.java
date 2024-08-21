@@ -19,10 +19,10 @@ import java.util.concurrent.Executors;
 /**
  * RabbitMQ 消息接收器类
  *
- * @author Wuxy
+ * @author zxq
  * @version 1.0
  * @ClassName MqReceiver
- * @since 2023/1/14 10:21
+ * @since 2023/11/14 10:21
  */
 @Slf4j
 @RabbitListener(queues = MQConstants.SECKILL_QUEUE, ackMode = "MANUAL")

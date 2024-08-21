@@ -35,10 +35,10 @@ import static com.ddpw.utils.RedisConstants.ACCESS_LIMIT_USER_KEY;
 /**
  * 接口防刷切面处理实现类
  *
- * @author Wuxy
+ * @author zxq
  * @version 1.0
  * @ClassName PreventAop
- * @since 2023/1/13 16:38
+ * @since 2023/11/13 16:38
  */
 @Aspect // 声明当前类是一个切面
 @Component

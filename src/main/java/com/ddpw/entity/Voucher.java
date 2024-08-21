@@ -17,8 +17,8 @@ import java.time.LocalDateTime;
  * 优惠券实体类
  * </p>
  *
- * @author Wuxy
- * @since 2023-1-13
+ * @author zxq
+ * @since 2023-11-13
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

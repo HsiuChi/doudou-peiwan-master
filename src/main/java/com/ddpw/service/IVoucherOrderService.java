@@ -9,8 +9,8 @@ import com.ddpw.entity.VoucherOrder;
  *  优惠券订单服务类接口
  * </p>
  *
- * @author Wuxy
- * @since 2021-12-22
+ * @author zxq
+ * @since 2021-5-22
  */
 public interface IVoucherOrderService extends IService<VoucherOrder> {
 

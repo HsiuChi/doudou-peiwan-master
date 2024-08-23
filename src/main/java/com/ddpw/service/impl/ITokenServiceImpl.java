@@ -10,7 +10,7 @@ import org.springframework.data.redis.core.StringRedisTemplate;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author Wuxy
+ * @author zxq
  * @version 1.0
  * @ClassName TokenServiceImpl
  * @since 2023/6/3 17:34

@@ -10,7 +10,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * </p>
  *
  * @author zxq
- * @since 2023-11-12
+ * @since 2023-5-12
  */
 public interface IShopTypeService extends IService<ShopType> {
 

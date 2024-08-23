@@ -13,7 +13,7 @@ import javax.annotation.Resource;
  * 店铺类型管理
  *
  * @author zxq
- * @since 2023-11-2
+ * @since 2023-5-2
  */
 @RestController
 @RequestMapping("/shop-type")

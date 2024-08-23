@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
  * @author zxq
  * @version 1.0
  * @ClassName MqSender
- * @since 2023/11/14 10:21
+ * @since 2023/9/18 10:21
  */
 @Slf4j
 @Component

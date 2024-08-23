@@ -9,7 +9,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * </p>
  *
  * @author zxq
- * @since 2023-11-2
+ * @since 2023-5-2
  */
 public interface ISeckillVoucherService extends IService<SeckillVoucher> {
 

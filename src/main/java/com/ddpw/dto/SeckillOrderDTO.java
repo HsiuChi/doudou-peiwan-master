@@ -9,7 +9,7 @@ import lombok.Data;
  * @author zxq
  * @version 1.0
  * @ClassName SeckillOrderDTO
- * @since 2023/10/14 10:41
+ * @since 2023/8/14 10:41
  */
 @Data
 @Builder

@@ -9,7 +9,7 @@ import com.ddpw.entity.Follow;
  * </p>
  *
  * @author zxq
- * @since 2023-11-2
+ * @since 2023-6-2
  */
 public interface FollowMapper extends BaseMapper<Follow> {
 

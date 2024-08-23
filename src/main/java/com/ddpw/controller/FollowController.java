@@ -11,7 +11,7 @@ import javax.annotation.Resource;
  * 关注管理
  *
  * @author zxq
- * @since 2023-11-2
+ * @since 2023-5-2
  */
 @RestController
 @RequestMapping("/follow")

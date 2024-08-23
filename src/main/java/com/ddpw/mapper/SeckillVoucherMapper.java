@@ -9,7 +9,7 @@ import com.ddpw.entity.SeckillVoucher;
  * </p>
  *
  * @author zxq
- * @since 2023-11-2
+ * @since 2023-5-2
  */
 public interface SeckillVoucherMapper extends BaseMapper<SeckillVoucher> {
 

@@ -4,7 +4,7 @@ package com.ddpw.exception;
  * @author zxq
  * @version 1.0
  * @ClassName BusinessException
- * @since 2023/1/14 15:28
+ * @since 2023/7/14 15:28
  */
 public class BusinessException extends RuntimeException {
 

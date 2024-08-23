@@ -22,7 +22,7 @@ import java.util.concurrent.Executors;
  * @author zxq
  * @version 1.0
  * @ClassName MqReceiver
- * @since 2023/11/14 10:21
+ * @since 2023/9/14 10:21
  */
 @Slf4j
 @RabbitListener(queues = MQConstants.SECKILL_QUEUE, ackMode = "MANUAL")

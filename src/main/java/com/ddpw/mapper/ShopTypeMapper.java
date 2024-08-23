@@ -9,7 +9,7 @@ import com.ddpw.entity.ShopType;
  * </p>
  *
  * @author zxq
- * @since 2023-11-2
+ * @since 2023-5-2
  */
 public interface ShopTypeMapper extends BaseMapper<ShopType> {
 

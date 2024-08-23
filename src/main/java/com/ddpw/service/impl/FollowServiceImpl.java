@@ -26,7 +26,7 @@ import java.util.stream.Collectors;
  * </p>
  *
  * @author zxq
- * @since 2023-11-2
+ * @since 2023-7-2
  */
 @Service
 public class FollowServiceImpl extends ServiceImpl<FollowMapper, Follow> implements IFollowService {

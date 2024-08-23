@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author Wuxy
+ * @author zxq
  * @version 1.0
  * @ClassName TokenController
  * @since 2023/6/3 17:25

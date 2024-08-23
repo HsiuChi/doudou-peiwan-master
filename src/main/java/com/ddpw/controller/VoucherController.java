@@ -12,7 +12,7 @@ import javax.annotation.Resource;
  * 优惠券管理
  *
  * @author zxq
- * @since 2023-11-2
+ * @since 2023-6-2
  */
 @RestController
 @RequestMapping("/voucher")

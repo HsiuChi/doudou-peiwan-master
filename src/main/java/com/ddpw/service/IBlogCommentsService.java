@@ -9,7 +9,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * </p>
  *
  * @author zxq
- * @since 2023-11-2
+ * @since 2023-8-2
  */
 public interface IBlogCommentsService extends IService<BlogComments> {
 
